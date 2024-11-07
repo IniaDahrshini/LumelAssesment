@@ -1,7 +1,6 @@
 # LumelAssesment
 Simple Hierarchical Table Website
 
-
 import {useState} from "react"
 export default function App() {
     const [varPercent, setVarPercent] = useState("0%")
