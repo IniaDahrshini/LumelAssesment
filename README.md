@@ -20,7 +20,7 @@ export default function App() {
       <td><input type="number" placeholder="input your value"></input></td>
       <td><button>Increase%</button></td>
       <td><button>Sum Value</button></td>
-      <td>{varPercent}</td>
+      <td></td>
       </tr>
       <tr>
       <td>--Phones</td>
@@ -28,7 +28,7 @@ export default function App() {
           <td><input type="number" placeholder="input your value"></input></td>
           <td><button>Increase%</button></td>
           <td><button>Sum Value</button></td>
-          <td>{varPercent}</td>
+          <td></td>
       </tr>
       <tr>
       <td>--Laptops</td>
@@ -36,7 +36,7 @@ export default function App() {
           <td><input type="number" placeholder="input your value"></input></td>
           <td><button>Increase%</button></td>
           <td><button>Sum Value</button></td>
-          <td>{varPercent}</td>
+          <td></td>
       </tr>
       <tr>
       <td>Furniture</td>
@@ -44,7 +44,7 @@ export default function App() {
           <td><input type="number" placeholder="input your value"></input></td>
           <td><button>Increase%</button></td>
           <td><button>Sum Value</button></td>
-          <td>{varPercent}</td>
+          <td></td>
           <td></td>
       </tr>
       <tr>
@@ -53,7 +53,7 @@ export default function App() {
           <td><input type="number" placeholder="input your value"></input></td>
           <td><button>Increase%</button></td>
           <td><button>Sum Value</button></td>
-          <td>{varPercent}</td>
+          <td></td>
       </tr>
       <tr>
       <td>--Chairs</td>
@@ -61,7 +61,7 @@ export default function App() {
           <td><input type="number" placeholder="input your value"></input></td>
           <td><button>Increase%</button></td>
           <td><button>Sum Value</button></td>
-          <td>{varPercent}</td>
+          <td>}</td>
       </tr>
   </table>
   </>
